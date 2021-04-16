@@ -1,0 +1,4 @@
+pafy==0.5.5
+youtube-dl==2021.4.7
+prettytable==2.1.0
+colorama==0.4.4
